@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
                     // Set the message show for the Alert time
                     builder.setMessage("Do you want PlayAgain?");
 
-                    // Set Alert Title
+
 
 
                     // Set Cancelable false for when the user clicks on the outside the Dialog Box then it will remain show
